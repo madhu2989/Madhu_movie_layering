@@ -1,0 +1,14 @@
+c:\users\nikhil\documents\visual studio 2015\Projects\Madhu_movie_layering\DAL\bin\Debug\DAL.dll
+c:\users\nikhil\documents\visual studio 2015\Projects\Madhu_movie_layering\DAL\bin\Debug\DAL.pdb
+c:\users\nikhil\documents\visual studio 2015\Projects\Madhu_movie_layering\DAL\bin\Debug\BO.dll
+c:\users\nikhil\documents\visual studio 2015\Projects\Madhu_movie_layering\DAL\bin\Debug\BO.pdb
+c:\users\nikhil\documents\visual studio 2015\Projects\Madhu_movie_layering\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\nikhil\documents\visual studio 2015\Projects\Madhu_movie_layering\DAL\obj\Debug\DAL.dll
+c:\users\nikhil\documents\visual studio 2015\Projects\Madhu_movie_layering\DAL\obj\Debug\DAL.pdb
+C:\Users\Manju\Documents\Visual Studio 2013\Projects\Madhu_movie_layering\DAL\bin\Debug\DAL.dll
+C:\Users\Manju\Documents\Visual Studio 2013\Projects\Madhu_movie_layering\DAL\bin\Debug\DAL.pdb
+C:\Users\Manju\Documents\Visual Studio 2013\Projects\Madhu_movie_layering\DAL\bin\Debug\BO.dll
+C:\Users\Manju\Documents\Visual Studio 2013\Projects\Madhu_movie_layering\DAL\bin\Debug\BO.pdb
+C:\Users\Manju\Documents\Visual Studio 2013\Projects\Madhu_movie_layering\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Manju\Documents\Visual Studio 2013\Projects\Madhu_movie_layering\DAL\obj\Debug\DAL.dll
+C:\Users\Manju\Documents\Visual Studio 2013\Projects\Madhu_movie_layering\DAL\obj\Debug\DAL.pdb

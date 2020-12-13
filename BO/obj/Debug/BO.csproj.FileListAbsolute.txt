@@ -1,0 +1,10 @@
+c:\users\nikhil\documents\visual studio 2015\Projects\Madhu_movie_layering\BO\bin\Debug\BO.dll
+c:\users\nikhil\documents\visual studio 2015\Projects\Madhu_movie_layering\BO\bin\Debug\BO.pdb
+c:\users\nikhil\documents\visual studio 2015\Projects\Madhu_movie_layering\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+c:\users\nikhil\documents\visual studio 2015\Projects\Madhu_movie_layering\BO\obj\Debug\BO.dll
+c:\users\nikhil\documents\visual studio 2015\Projects\Madhu_movie_layering\BO\obj\Debug\BO.pdb
+C:\Users\Manju\Documents\Visual Studio 2013\Projects\Madhu_movie_layering\BO\bin\Debug\BO.dll
+C:\Users\Manju\Documents\Visual Studio 2013\Projects\Madhu_movie_layering\BO\bin\Debug\BO.pdb
+C:\Users\Manju\Documents\Visual Studio 2013\Projects\Madhu_movie_layering\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\Manju\Documents\Visual Studio 2013\Projects\Madhu_movie_layering\BO\obj\Debug\BO.dll
+C:\Users\Manju\Documents\Visual Studio 2013\Projects\Madhu_movie_layering\BO\obj\Debug\BO.pdb
